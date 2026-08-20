@@ -1,0 +1,35 @@
+[
+  {
+    "id": "red-sea-2026-08",
+    "title": "Red Sea / Bab-el-Mandeb attacks continue to disrupt Suez transit",
+    "category": "geopolitical",
+    "regions": ["Red Sea", "Suez", "Bab-el-Mandeb", "Gulf of Aden", "EG", "SA", "Yemen"],
+    "keywords": ["suez", "red sea", "yemen", "bab-el-mandeb", "gulf of aden", "houthi", "port said", "jeddah"],
+    "severity": "high",
+    "summary": "Ongoing attacks on commercial vessels; most major carriers reroute around the Cape of Good Hope, adding roughly 10-14 days and higher fuel/insurance cost to Asia-Europe voyages.",
+    "source": "manual",
+    "updated": "2026-08-12"
+  },
+  {
+    "id": "black-sea-2026-06",
+    "title": "Black Sea shipping insurance premiums elevated",
+    "category": "geopolitical",
+    "regions": ["Black Sea", "TR", "Istanbul", "Odesa"],
+    "keywords": ["black sea", "odesa", "istanbul", "bosphorus", "ukraine", "russia"],
+    "severity": "medium",
+    "summary": "War-risk insurance premiums remain elevated for Black Sea calls; grain corridor intermittently constrained.",
+    "source": "manual",
+    "updated": "2026-06-30"
+  },
+  {
+    "id": "taiwan-strait-2026-07",
+    "title": "Taiwan Strait military exercises raise transit caution",
+    "category": "geopolitical",
+    "regions": ["Taiwan Strait", "TW", "CN", "Shanghai"],
+    "keywords": ["taiwan", "taiwan strait", "cross-strait", "shanghai", "kaohsiung"],
+    "severity": "medium",
+    "summary": "Periodic military exercises prompt some carriers to add buffer time through the Taiwan Strait; no closures but heightened caution.",
+    "source": "manual",
+    "updated": "2026-07-22"
+  }
+]

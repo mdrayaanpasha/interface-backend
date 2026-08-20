@@ -1,0 +1,35 @@
+[
+  {
+    "id": "rare-earth-controls-2026-05",
+    "title": "Rare-earth & gallium/germanium export controls (CN)",
+    "category": "export_ban",
+    "regions": ["CN", "Shanghai", "Shenzhen"],
+    "keywords": ["rare earth", "gallium", "germanium", "magnet", "semiconductor", "chip", "electronics"],
+    "severity": "high",
+    "summary": "License requirements on rare-earth magnets and gallium/germanium exports; shipments of affected materials/components may face documentation delays or denial.",
+    "source": "manual",
+    "updated": "2026-05-20"
+  },
+  {
+    "id": "adv-chip-controls-2026-04",
+    "title": "Advanced semiconductor export restrictions (US)",
+    "category": "export_ban",
+    "regions": ["US", "Los Angeles", "New York"],
+    "keywords": ["semiconductor", "gpu", "advanced chip", "ai accelerator", "lithography"],
+    "severity": "high",
+    "summary": "Export licensing required for advanced AI chips and certain equipment to specified destinations; end-use checks add lead time.",
+    "source": "manual",
+    "updated": "2026-04-15"
+  },
+  {
+    "id": "fertilizer-restrictions-2026-03",
+    "title": "Fertilizer export quotas (multiple)",
+    "category": "export_ban",
+    "regions": ["RU", "CN"],
+    "keywords": ["fertilizer", "urea", "potash", "ammonia"],
+    "severity": "medium",
+    "summary": "Export quotas on select fertilizers constrain availability and add licensing steps.",
+    "source": "manual",
+    "updated": "2026-03-28"
+  }
+]

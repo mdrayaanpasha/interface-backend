@@ -1,0 +1,35 @@
+[
+  {
+    "id": "rotterdam-congestion-2026-08",
+    "title": "Rotterdam terminal congestion",
+    "category": "port",
+    "regions": ["Rotterdam", "NL"],
+    "keywords": ["rotterdam"],
+    "severity": "medium",
+    "summary": "Yard congestion and barge delays at Rotterdam deep-sea terminals; berth waiting times of 1-3 days reported.",
+    "source": "manual",
+    "updated": "2026-08-05"
+  },
+  {
+    "id": "la-longbeach-strike-2026-07",
+    "title": "Labor slowdown at Los Angeles / Long Beach",
+    "category": "port",
+    "regions": ["Los Angeles", "Long Beach", "US"],
+    "keywords": ["los angeles", "long beach", "san pedro"],
+    "severity": "medium",
+    "summary": "Intermittent labor slowdowns affecting gate hours and crane productivity at San Pedro Bay ports.",
+    "source": "manual",
+    "updated": "2026-07-18"
+  },
+  {
+    "id": "shanghai-typhoon-window-2026-08",
+    "title": "Shanghai typhoon-season berth closures",
+    "category": "port",
+    "regions": ["Shanghai", "Ningbo", "CN"],
+    "keywords": ["shanghai", "ningbo", "yangshan"],
+    "severity": "low",
+    "summary": "Occasional short berth closures during typhoon passages; typical August seasonal disruption.",
+    "source": "manual",
+    "updated": "2026-08-10"
+  }
+]
